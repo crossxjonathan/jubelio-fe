@@ -31,7 +31,7 @@ Jubelio pedia is a E-commerce project where user can do shopping with easy way i
 
 **State Management:** Zustand
 
-[![My Skills](https://skillicons.dev/icons?i=js,sass,react,redux,axios)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,tailwind,react)](https://skillicons.dev)
 
 
 
@@ -90,6 +90,7 @@ setup server:
 
 ## Related Project (Backend)
 
+- [`Backend Jubelio`](https://github.com/crossxjonathan/jubelio-be)
 
 
 ## Developed :
